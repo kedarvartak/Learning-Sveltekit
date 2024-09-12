@@ -14,7 +14,7 @@
   });
 </script>
 
-<nav class={`fixed bg-blue-950 bg-opacity-30 top-0 left-0 right-0 z-50 shadow-md backdrop-blur-md transition-colors duration-300 ${isScrolled ? 'bg-[#072741]' : 'bg-transparent'}`}>
+<nav class={`fixed bg-blue-100 bg-opacity-30 top-0 left-0 right-0 z-50 shadow-md backdrop-blur-md transition-colors duration-300 ${isScrolled ? 'bg-[#072741]' : 'bg-transparent'}`}>
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
     <div class="flex justify-between h-16 items-center">
       <!-- Logo Section -->
@@ -24,11 +24,11 @@
 
       <!-- Menu Section -->
       <div class="hidden md:flex space-x-6">
-        <a href="#" class="hover:bg-[#a4d391] px-3 py-2 rounded-full font-poppins text-sm font-medium transition duration-300">Home</a>
-        <a href="#" class="hover:bg-[#a4d391] px-3 py-2 rounded-full font-poppins text-sm font-medium transition duration-300">About Us</a>
-        <a href="#" class="hover:bg-[#a4d391] px-3 py-2 rounded-full font-poppins text-sm font-medium transition duration-300">Customers</a>
-        <a href="#" class="hover:bg-[#a4d391] px-3 py-2 rounded-full font-poppins text-sm font-medium transition duration-300">Our Services</a>
-        <a href="#" class="active-link px-3 py-2 rounded-full text-sm font-poppins font-medium transition duration-300">Contact Us</a>
+        <a href="#" class="hover:bg-[#a4d391] px-3 py-2 rounded-full font-poppins text-md font-medium transition duration-300">Home</a>
+        <a href="#" class="hover:bg-[#a4d391] px-3 py-2 rounded-full font-poppins text-md font-medium transition duration-300">About Us</a>
+        <a href="#" class="hover:bg-[#a4d391] px-3 py-2 rounded-full font-poppins text-md font-medium transition duration-300">Customers</a>
+        <a href="#" class="hover:bg-[#a4d391] px-3 py-2 rounded-full font-poppins text-md font-medium transition duration-300">Our Services</a>
+        <a href="#" class="active-link px-3 py-2 rounded-full text-md font-poppins font-medium transition duration-300">Contact Us</a>
       </div>
 
       <!-- Mobile Menu Button -->
