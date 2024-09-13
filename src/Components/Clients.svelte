@@ -7,89 +7,106 @@
       </p>
   
       <div class="relative overflow-hidden">
-        <div class="ticker flex space-x-8 p-10 ">
-          <div class="card flex-shrink-0 w-72 h-76 bg-blue-100  rounded-lg shadow-lg overflow-hidden transform transition-transform duration-300 hover:scale-105 hover:shadow-blue-400 ">
-            <div class="flex items-center justify-center h-full p-6 bg-gradient-to-r from-[#e3f2fd] to-[#ffffff] opacity-75 rounded-lg">
+        <div class="ticker flex space-x-8 p-10">
+          <!-- Card 1 -->
+          <div class="card flex-shrink-0 w-72 h-76 bg-white bg-opacity-10 border border-white/20 backdrop-blur-lg rounded-lg shadow-2xl overflow-hidden transform transition-transform duration-300 hover:scale-105 hover:shadow-blue-500">
+            <div class="flex items-center justify-center h-full p-6 backdrop-blur-sm rounded-lg">
               <img src="https://via.placeholder.com/120" alt="Logo" class="w-32 h-32 object-cover rounded-full">
             </div>
             <div class="p-2">
               <h3 class="text-2xl font-semibold text-[#072741]">Company A</h3>
             </div>
           </div>
-          <!-- Repeat Cards -->
-          <div class="card flex-shrink-0 w-72 h-76 bg-blue-100  rounded-lg shadow-lg overflow-hidden transform transition-transform duration-300 hover:scale-105 hover:shadow-blue-400 ">
-            <div class="flex items-center justify-center h-full p-6 bg-gradient-to-r from-[#e3f2fd] to-[#ffffff] opacity-75 rounded-lg">
+          
+          <!-- Card 2 -->
+          <div class="card flex-shrink-0 w-72 h-76 bg-white bg-opacity-10 border border-white/20 backdrop-blur-lg rounded-lg shadow-2xl overflow-hidden transform transition-transform duration-300 hover:scale-105 hover:shadow-blue-500">
+            <div class="flex items-center justify-center h-full p-6 backdrop-blur-sm rounded-lg">
               <img src="https://via.placeholder.com/120" alt="Logo" class="w-32 h-32 object-cover rounded-full">
             </div>
             <div class="p-2">
               <h3 class="text-2xl font-semibold text-[#072741]">Company B</h3>
             </div>
           </div>
-          <div class="card flex-shrink-0 w-72 h-76 bg-blue-100  rounded-lg shadow-lg overflow-hidden transform transition-transform duration-300 hover:scale-105 hover:shadow-blue-400 ">
-            <div class="flex items-center justify-center h-full p-6 bg-gradient-to-r from-[#e3f2fd] to-[#ffffff] opacity-75 rounded-lg">
+          
+          <!-- Card 3 -->
+          <div class="card flex-shrink-0 w-72 h-76 bg-white bg-opacity-10 border border-white/20 backdrop-blur-lg rounded-lg shadow-2xl overflow-hidden transform transition-transform duration-300 hover:scale-105 hover:shadow-blue-500">
+            <div class="flex items-center justify-center h-full p-6 backdrop-blur-sm rounded-lg">
               <img src="https://via.placeholder.com/120" alt="Logo" class="w-32 h-32 object-cover rounded-full">
             </div>
             <div class="p-2">
-              <h3 class="text-2xl font-semibold text-[#072741]">Company B</h3>
+              <h3 class="text-2xl font-semibold text-[#072741]">Company C</h3>
             </div>
           </div>
-          <div class="card flex-shrink-0 w-72 h-76 bg-blue-100  rounded-lg shadow-lg overflow-hidden transform transition-transform duration-300 hover:scale-105 hover:shadow-blue-400 ">
-            <div class="flex items-center justify-center h-full p-6 bg-gradient-to-r from-[#e3f2fd] to-[#ffffff] opacity-75 rounded-lg">
+
+          <!-- Card 4 -->
+          <div class="card flex-shrink-0 w-72 h-76 bg-white bg-opacity-10 border border-white/20 backdrop-blur-lg rounded-lg shadow-2xl overflow-hidden transform transition-transform duration-300 hover:scale-105 hover:shadow-blue-500">
+            <div class="flex items-center justify-center h-full p-6 backdrop-blur-sm rounded-lg">
               <img src="https://via.placeholder.com/120" alt="Logo" class="w-32 h-32 object-cover rounded-full">
             </div>
             <div class="p-2">
-              <h3 class="text-2xl font-semibold text-[#072741]">Company B</h3>
+              <h3 class="text-2xl font-semibold text-[#072741]">Company D</h3>
             </div>
           </div>
-          <div class="card flex-shrink-0 w-72 h-76 bg-blue-100  rounded-lg shadow-lg overflow-hidden transform transition-transform duration-300 hover:scale-105 hover:shadow-blue-400 ">
-            <div class="flex items-center justify-center h-full p-6 bg-gradient-to-r from-[#e3f2fd] to-[#ffffff] opacity-75 rounded-lg">
+
+          <!-- Card 5 -->
+          <div class="card flex-shrink-0 w-72 h-76 bg-white bg-opacity-10 border border-white/20 backdrop-blur-lg rounded-lg shadow-2xl overflow-hidden transform transition-transform duration-300 hover:scale-105 hover:shadow-blue-500">
+            <div class="flex items-center justify-center h-full p-6 backdrop-blur-sm rounded-lg">
               <img src="https://via.placeholder.com/120" alt="Logo" class="w-32 h-32 object-cover rounded-full">
             </div>
             <div class="p-2">
-              <h3 class="text-2xl font-semibold text-[#072741]">Company B</h3>
+              <h3 class="text-2xl font-semibold text-[#072741]">Company E</h3>
             </div>
           </div>
-          <div class="card flex-shrink-0 w-72 h-76 bg-blue-100  rounded-lg shadow-lg overflow-hidden transform transition-transform duration-300 hover:scale-105 hover:shadow-blue-400 ">
-            <div class="flex items-center justify-center h-full p-6 bg-gradient-to-r from-[#e3f2fd] to-[#ffffff] opacity-75 rounded-lg">
+
+          <!-- Card 6 -->
+          <div class="card flex-shrink-0 w-72 h-76 bg-white bg-opacity-10 border border-white/20 backdrop-blur-lg rounded-lg shadow-2xl overflow-hidden transform transition-transform duration-300 hover:scale-105 hover:shadow-blue-500">
+            <div class="flex items-center justify-center h-full p-6 backdrop-blur-sm rounded-lg">
               <img src="https://via.placeholder.com/120" alt="Logo" class="w-32 h-32 object-cover rounded-full">
             </div>
             <div class="p-2">
-              <h3 class="text-2xl font-semibold text-[#072741]">Company B</h3>
+              <h3 class="text-2xl font-semibold text-[#072741]">Company F</h3>
             </div>
           </div>
-          <!-- Add more cards as needed -->
         </div>
       </div>
   
       <!-- Active Link -->
       <div class="mt-12 text-center">
-        <a href="#" class="inline-block px-6 py-3 border-2 border-[#072741] text-[#072741] font-semibold rounded-full transition-all duration-300 hover:border-[#0056b3] hover:bg-[#e3f2fd] hover:text-[#072741]">
+        <a href="#" class="inline-flex items-center px-6 py-3 border-2 border-[#072741] text-[#072741] font-semibold rounded-full transition-all duration-300 bg-transparent hover:border-[#0056b3] hover:bg-[#e3f2fd] hover:text-[#072741]">
           Browse Client Success Stories
+          <svg class="ml-2 w-5 h-5 text-[#072741] transition-colors duration-300 hover:text-[#0056b3]" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 12h14m-7-7l7 7-7 7"></path>
+          </svg>
         </a>
       </div>
-      
-      
   </section>
-  
-  <style>
-    /* Add styles for the ticker */
-    @keyframes ticker {
-      0% { transform: translateX(0); }
-      100% { transform: translateX(-100%); }
-    }
-  
-    .ticker {
-      animation: ticker 30s linear infinite;
-    }
-  
-    .ticker:hover {
-      animation-play-state: paused;
-    }
-  
-    /* Active Link Hover Effect */
-    a:hover {
-      color: #0056b3; /* Slight color change on hover */
-      border-bottom-color: #0056b3; /* Underline animation */
-    }
-  </style>
-  
+
+<style>
+  /* Add styles for the ticker */
+  @keyframes ticker {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(-100%); }
+  }
+
+  .ticker {
+    animation: ticker 30s linear infinite;
+  }
+
+  .ticker:hover {
+    animation-play-state: paused;
+  }
+
+  /* Glassmorphism Card */
+  .card {
+    background-color: rgba(255, 255, 255, 0.1); /* Transparent background */
+    backdrop-filter: blur(15px); /* Frosted glass effect */
+    border: 1px solid rgba(255, 255, 255, 0.2); /* Soft white border */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+  }
+
+  /* Active Link Hover Effect */
+  a:hover {
+    color: #0056b3; /* Slight color change on hover */
+    border-bottom-color: #0056b3; /* Underline animation */
+  }
+</style>

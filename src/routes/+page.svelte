@@ -3,6 +3,10 @@
 //   import Footer from '../Components/Footer.svelte';
   import Landing from '../Components/LandingPage.svelte';
   import Clients from '../Components/Clients.svelte'
+  import Services from '../Components/Services.svelte';
+  import WhyUs from '../Components/WhyUs.svelte';
+  import Contact from '../Components/Contact.svelte';
+ 
 </script>
 
 <style>
@@ -17,6 +21,12 @@
   <Landing/>
 
   <Clients/>
+
+  <Services/>
+
+  <WhyUs/>
+
+  <Contact/>
   </div>
   
  
