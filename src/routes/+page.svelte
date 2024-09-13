@@ -5,7 +5,7 @@
   import Clients from '../Components/Clients.svelte'
   import Services from '../Components/Services.svelte';
   import WhyUs from '../Components/WhyUs.svelte';
-  import Contact from '../Components/Contact.svelte';
+ 
  
 </script>
 
@@ -20,13 +20,13 @@
   
   <Landing/>
 
+  <WhyUs/>  
+
   <Clients/>
 
   <Services/>
 
-  <WhyUs/>
-
-  <Contact/>
+  
   </div>
   
  

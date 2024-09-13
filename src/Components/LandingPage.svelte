@@ -1,7 +1,7 @@
 <section class="text-[#072741] py-24 font-poppins relative">
   <div class="absolute inset-0 bg-opacity-0"></div> <!-- Background of the section is transparent -->
 
-  <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col md:flex-row items-center md:space-x-8 mt-20">
+  <div class="relative max-w-7xl h-full mx-auto px-4 sm:px-6 lg:px-8 flex flex-col md:flex-row items-center md:space-x-8 mt-20">
     <!-- Text Section -->
     <div class="md:w-1/2 mb-8 md:mb-0 space-y-6">
       <!-- Header Text -->
