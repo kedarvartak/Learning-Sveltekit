@@ -1,10 +1,12 @@
 <script>
   import Navbar from '../Components/Navbar.svelte';
-//   import Footer from '../Components/Footer.svelte';
   import Landing from '../Components/LandingPage.svelte';
   import Clients from '../Components/Clients.svelte'
   import Services from '../Components/Services.svelte';
   import WhyUs from '../Components/WhyUs.svelte';
+  import Footer from '../Components/Footer.svelte';
+  import WhyViso from '../Components/WhyViso.svelte';
+  import Blogs from '../Components/Blogs.svelte';
  
  
 </script>
@@ -25,8 +27,12 @@
   <Clients/>
 
   <Services/>
-
+   
+  <WhyViso/>
   
+  <Blogs/>
+  
+  <Footer/>
   </div>
   
  
