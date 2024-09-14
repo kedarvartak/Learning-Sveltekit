@@ -16,7 +16,7 @@
       </div>
 
       <div class="md:w-1/3 flex flex-col justify-center space-y-4 mb-6 md:mb-0">
-        <a href="#" class="text-lg text-[#072741] hover:text-[#0056b3] font-medium transition-colors duration-300">Phone Number</a>
+        <a href="#" class="text-lg text-[#072741] hover:text-[#0056b3] font-medium transition-colors duration-300">Phone No</a>
         <a href="#" class="text-lg text-[#072741] hover:text-[#0056b3] font-medium transition-colors duration-300">Email 1</a>
         <a href="#" class="text-lg text-[#072741] hover:text-[#0056b3] font-medium transition-colors duration-300">Email 2</a>
         <a href="#" class="text-lg text-[#072741] hover:text-[#0056b3] font-medium transition-colors duration-300">Address</a>
