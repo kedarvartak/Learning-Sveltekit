@@ -1,7 +1,7 @@
 <script>
     import Navbar from '../../../Components/Navbar.svelte';
     import Footer from '../../../Components/Footer.svelte';
-    const video1 = '/1.mp4';
+    const video1 = '/3.mp4';
 </script>
 
 <div class="bg-light-blue-blend">
