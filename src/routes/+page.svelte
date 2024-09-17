@@ -7,7 +7,7 @@
   import Footer from '../Components/Footer.svelte';
   import WhyViso from '../Components/WhyViso.svelte';
   import Blogs from '../Components/Blogs.svelte';
- 
+  import Contact from '../Components/Contact.svelte'; 
  
 </script>
 
@@ -32,6 +32,8 @@
   
   <Blogs/>
   
+  <Contact/>
+
   <Footer/>
   </div>
   

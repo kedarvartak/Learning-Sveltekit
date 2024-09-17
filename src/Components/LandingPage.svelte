@@ -10,13 +10,13 @@
       </h1>
 
       <!-- Description -->
-      <p class="text-md font-regular text-[#333]">
+      <p class="text-lg font-regular text-[#333]">
         At Viso Analytics, we provide data-driven insights and analytics solutions tailored to enhance your business's performance. Discover how we can help you leverage data for informed decision-making and drive growth.
       </p>
 
       <!-- Button -->
       <div class="mt-8">
-        <a href="#" class="inline-flex items-center px-6 py-3 border-2 border-[#072741] text-[#072741] font-semibold rounded-full transition-all duration-300 bg-transparent hover:border-[#0056b3] hover:bg-[#e3f2fd] hover:text-[#072741]">
+        <a href="/AboutUs.svelte" class="inline-flex items-center px-6 py-3 border-2 border-[#072741] text-[#072741] font-semibold rounded-full transition-all duration-300 bg-transparent hover:border-[#0056b3] hover:bg-[#e3f2fd] hover:text-[#072741]">
           Read more
           <svg class="ml-2 w-5 h-5 text-[#072741] transition-colors duration-300 hover:text-[#0056b3]" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 12h14m-7-7l7 7-7 7"></path>

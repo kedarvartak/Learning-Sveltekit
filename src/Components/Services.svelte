@@ -15,7 +15,7 @@
             <h3 class="text-2xl font-bold text-[#072741] mb-4">Service 1</h3>
             
             <div class="absolute inset-0 flex items-center justify-center bg-opacity-80 bg-white opacity-0 group-hover:opacity-100 transition-opacity duration-300 backdrop-blur-lg">
-              <a href="/service1" class="text-lg font-semibold text-[#072741] transition-all duration-300 hover:text-[#0056b3] hover:underline underline-offset-4">
+              <a href="/services/service1" class="text-lg font-semibold text-[#072741] transition-all duration-300 hover:text-[#0056b3] hover:underline underline-offset-4">
                 Know More About This Service &rarr;
               </a>
             </div>
@@ -30,7 +30,7 @@
             <h3 class="text-2xl font-bold text-[#072741] mb-4">Service 1</h3>
             
             <div class="absolute inset-0 flex items-center justify-center bg-opacity-80 bg-white opacity-0 group-hover:opacity-100 transition-opacity duration-300 backdrop-blur-lg">
-              <a href="/service1" class="text-lg font-semibold text-[#072741] transition-all duration-300 hover:text-[#0056b3] hover:underline underline-offset-4">
+              <a href="/services/service2" class="text-lg font-semibold text-[#072741] transition-all duration-300 hover:text-[#0056b3] hover:underline underline-offset-4">
                 Know More About This Service &rarr;
               </a>
             </div>
@@ -44,7 +44,7 @@
             <h3 class="text-2xl font-bold text-[#072741] mb-4">Service 1</h3>
             
             <div class="absolute inset-0 flex items-center justify-center bg-opacity-80 bg-white opacity-0 group-hover:opacity-100 transition-opacity duration-300 backdrop-blur-lg">
-              <a href="/service1" class="text-lg font-semibold text-[#072741] transition-all duration-300 hover:text-[#0056b3] hover:underline underline-offset-4">
+              <a href="/services/service3" class="text-lg font-semibold text-[#072741] transition-all duration-300 hover:text-[#0056b3] hover:underline underline-offset-4">
                 Know More About This Service &rarr;
               </a>
             </div>

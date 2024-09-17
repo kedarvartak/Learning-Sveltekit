@@ -25,7 +25,7 @@
       <!-- Menu Section -->
       <div class="hidden md:flex space-x-6">
         <a href="#" class="hover:bg-[#a4d391] px-3 py-2 rounded-full font-poppins text-md font-medium transition duration-300">Home</a>
-        <a href="#" class="hover:bg-[#a4d391] px-3 py-2 rounded-full font-poppins text-md font-medium transition duration-300">About Us</a>
+        <a href="./AboutUs.svelte" class="hover:bg-[#a4d391] px-3 py-2 rounded-full font-poppins text-md font-medium transition duration-300">About Us</a>
         <a href="#" class="hover:bg-[#a4d391] px-3 py-2 rounded-full font-poppins text-md font-medium transition duration-300">Customers</a>
         <a href="#" class="hover:bg-[#a4d391] px-3 py-2 rounded-full font-poppins text-md font-medium transition duration-300">Our Services</a>
         <a href="#" class="active-link px-3 py-2 rounded-full text-md font-poppins font-medium transition duration-300">Contact Us</a>

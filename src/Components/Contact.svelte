@@ -8,7 +8,7 @@
       <div class="flex flex-col md:flex-row justify-between mt-12 space-y-8 md:space-y-0">
         
         <!-- Left: Contact Form with Glass Effect -->
-        <div class="md:w-1/2 bg-white bg-opacity-30 p-8 rounded-2xl shadow-lg backdrop-blur-lg border border-white border-opacity-20">
+        <div class="md:w-1/2 bg-white bg-opacity-30 hover:shadow-blue-500/50 p-8 rounded-2xl shadow-2xl backdrop-blur-lg border border-white border-opacity-20">
           <form>
             <div class="mb-6">
               <label for="name" class="block text-md font-medium text-[#072741]">Your Name</label>
@@ -36,7 +36,7 @@
         </div>
   
         <!-- Right: Contact Information with Icon Enhancement -->
-        <div class="md:w-1/2 bg-white bg-opacity-30 p-8 ml-4 rounded-2xl shadow-lg backdrop-blur-lg border border-white border-opacity-20 flex flex-col justify-center text-center">
+        <div class="md:w-1/2 bg-white hover:shadow-blue-500/50 bg-opacity-30 p-8 ml-4 rounded-2xl shadow-2xl backdrop-blur-lg border border-white border-opacity-20 flex flex-col justify-center text-center">
           
     </div>
   </section>
