@@ -12,7 +12,7 @@
         <!-- Video playing in the background -->
         <video autoplay muted loop class="absolute inset-0 w-full h-full object-cover z-0">
             <source src={video1} type="video/mp4" />
-            Your browser does not support the video tag.
+            Your browser does not support the video.
         </video>
 
         <!-- Dark Overlay to make text visible -->
