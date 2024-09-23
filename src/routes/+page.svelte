@@ -66,7 +66,7 @@
   
   <Blogs/>
   
-  <Contact/>
+  <!-- <Contact/> -->
 
   <Footer/>
   </div>
