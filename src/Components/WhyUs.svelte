@@ -16,10 +16,8 @@
   
       <!-- Content Overlay -->
       <div class="relative z-10  w-full h-full flex flex-col justify-center items-center">
-        <h3 class="text-8xl font-bold text-white mb-4">We Provide.</h3>
-        <h3 class="text-8xl font-bold text-white mb-4">We Build.</h3>
-        <h3 class="text-8xl font-bold text-white mb-4">We Dominate.</h3>
-        
+        <!-- <h3 class="text-8xl font-bold text-white mb-4">We Provide.</h3> -->
+       
         
         <!-- Cards Section -->
         <div class="flex justify-center space-x-8">
@@ -34,7 +32,59 @@
   
   
     <!-- Section 2: We Dominate -->
+    <section class="font-poppins">
+      <!-- Section 1: We Provide -->
+      
+  
+      <section id="section-3" class="relative w-full h-screen ">
+        <video autoplay muted loop class="video-style">
+          <source src={video3} type="video/mp4" />
+          Your browser does not support the video tag.
+        </video>
     
+        <!-- Content Overlay -->
+        <div class="relative z-10  w-full h-full flex flex-col justify-center items-center">
+          <!-- <h3 class="text-8xl font-bold text-white mb-4">We Provide.</h3> -->
+         
+          
+          
+          <!-- Cards Section -->
+          <div class="flex justify-center space-x-8">
+            <!-- Card 1 -->
+           
+    
+            <!-- Repeat for Card 2 and Card 3 -->
+          </div>
+        </div>
+      </section>
+    </section>
+
+    <section class="font-poppins">
+      <!-- Section 1: We Provide -->
+      
+  
+      <section id="section-3" class="relative w-full h-screen ">
+        <video autoplay muted loop class="video-style">
+          <source src={video3} type="video/mp4" />
+          Your browser does not support the video tag.
+        </video>
+    
+        <!-- Content Overlay -->
+        <div class="relative z-10  w-full h-full flex flex-col justify-center items-center">
+          <!-- <h3 class="text-8xl font-bold text-white mb-4">We Provide.</h3> -->
+         
+          
+          
+          <!-- Cards Section -->
+          <div class="flex justify-center space-x-8">
+            <!-- Card 1 -->
+           
+    
+            <!-- Repeat for Card 2 and Card 3 -->
+          </div>
+        </div>
+      </section>
+    </section>
   
     <!-- Section 3: We Build -->
   <style>
